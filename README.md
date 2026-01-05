@@ -2,11 +2,11 @@ This repository is forked for Raveena Chhibber's academic website.
 
 ## Source code
 
-+ Source code is originally from [Pascal Michaillat] (https://pascalmichaillat.org)
++ Source code is originally from [Pascal Michaillat](https://pascalmichaillat.org)
 + The website is generated with [Hugo](https://github.com/gohugoio/hugo). 
 + The source code is adapted from [hugo-website](https://github.com/pmichaillat/hugo-website), a minimalist template for academic websites.
 
-## Content
+<!-- ## Content -->
 
 <!-- + [Research papers](https://pascalmichaillat.org/papers/) - Papers and online appendices are stored as PDF files in the `static` folder. Metadata are stored as Markdown files in the `content/papers` folder.
 + [Course materials](https://pascalmichaillat.org/courses/) - Lecture notes, lecture slides, and homework are stored as PDF files in the `static` folder. Course plans are stored as Markdown files in the `content/courses` folder.

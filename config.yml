@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/" 
+baseURL: "https://rchhibber.githib.io/" 
 title: Pascal Michaillat
 theme: PaperMod
 pagination:
@@ -9,28 +9,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Book
-          url: /18/
-          weight: 1
+        # - name: Book
+        #   url: /18/
+        #   weight: 1
         - name: Papers
           url: /papers/
           weight: 2
         - name: Dashboard
           url: /dashboard/
           weight: 3
-        - name: Courses
-          url: /courses/
-          weight: 4
-        - name: Design
-          url: /design/
-          weight: 5        
+        # - name: Courses
+        #   url: /courses/
+        #   weight: 4
+        # - name: Design
+        #   url: /design/
+        #   weight: 5        
 
 params:
-    description: "This website hosts Pascal Michaillat's book chapters, research papers, real-time business cycle dashboard, course materials, and design templates."
-    author: Pascal Michaillat
-    googleAnalyticsID: "G-97G4MZ4061"
+    description: "Raveena Chhibber | NSF Gradute Fellow."
+    author: Raveena Chhibber
+    # googleAnalyticsID: "G-97G4MZ4061"
     images: ["cover.png"]
-    DateFormat: "January 2006"
+    DateFormat: "January 2026"
     defaultTheme: light
     hideFooter: true
     disableThemeToggle: true
@@ -50,38 +50,38 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Pascal Michaillat
-          subtitle: "I am a professor of economics at the University of California, Santa Cruz. I work primarily on economic slack, especially unemployment: why it exists, why it fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
+          title: Raveena Chhibber | NSF Graduate Fellow
+          subtitle: "I am a graduate student in the Neurosciene Program at University of Washington, Seattle."
           imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
           buttons:
-            - name: Book
-              url: /18/
+            # - name: Book
+            #   url: /18/
             - name: Papers
               url: /papers/
-            - name: Dashboard
+            - name: Projects
               url: /dashboard/  
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
+            # - name: Courses
+            #   url: /courses/
+            # - name: Design
+            #   url: /design/
 
     socialIcons:
         - name: CV
           url: /cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: /location/
-        - name: Office Hours
-          url: /officehours/
+          url: mailto:rchhib@uw.edu
+        # - name: Location
+        #   url: /location/
+        # - name: Office Hours
+        #   url: /officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=TEgzSrkAAAAJ&hl=en
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/rachhi
 
     assets:
         disableScrollBarStyle: true
@@ -89,7 +89,7 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
+      text: "Raveena Chhibber"
 
 markup:
     goldmark:
