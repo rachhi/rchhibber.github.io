@@ -54,7 +54,7 @@ params:
     profileMode:
           enabled: true
           title: Raveena Chhibber | NSF Graduate Fellow
-          subtitle: "I am a graduate student in the Neurosciene Program at University of Washington, Seattle."
+          subtitle: "I am a graduate student in the Neurosciene Program at University of Washington, Seattle. Broadly, I am interested in motor control and neuromechanics. Currently, I am an NSF GRFP Fellow working with John Tuthill and Bing Brunton."
           imageUrl: "/picture.jpeg"
           imageWidth: 130
           imageHeight: 130
